@@ -1,2 +1,2 @@
 # Proyecto2
-Bases del programa, clases, guis y manejadores creados
+Proyecto 2, IPC, Massielle Coti, 202031873
